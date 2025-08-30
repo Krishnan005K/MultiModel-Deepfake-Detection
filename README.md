@@ -1,3 +1,3 @@
 # MultiModel Deepfake-Detection
 
-about 25% Completed MAM
+about 25% Completed MAN
